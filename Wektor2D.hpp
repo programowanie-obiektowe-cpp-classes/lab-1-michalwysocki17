@@ -1,4 +1,3 @@
-#include <print>
 
 class Wektor2D
 {
