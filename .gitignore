@@ -32,5 +32,5 @@
 *.app
 
 # Build dir
-zal/build/**/*
-build/
+zal/**/*
+
